@@ -1,0 +1,6 @@
+# Standard gitignore for Agent Skills projects
+.DS_Store
+*.swp
+*.swo
+*~
+.env
